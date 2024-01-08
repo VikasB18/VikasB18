@@ -26,6 +26,7 @@ Hello! 👋 I am currently on a journey to become a skilled Java Full Stack Deve
 - 📫reach out me through **vikasmb2000@gmail.com**
 
 ## Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](linkedin.com/in/vikas-bandi-90bb191bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vikas-bandi-90bb191bb/)
+
 
 
